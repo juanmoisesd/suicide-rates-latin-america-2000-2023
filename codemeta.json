@@ -4,23 +4,17 @@
   "name": "Evolution of Suicide Rates in Latin America (2000-2023): Analysis by Country, Gender and Age Group. ",
   "version": "1.0.0",
   "identifier": "https://github.com/juanmoisesd/suicide-rates-latin-america-2000-2023",
-  "datePublished": "2025",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "codeRepository": "https://github.com/juanmoisesd/suicide-rates-latin-america-2000-2023",
   "author": [
     {
       "@type": "Person",
       "givenName": "Juan Moisés",
-      "familyName": "de la Serna",
-      "affiliation": {
-        "@type": "Organization",
-        "name": "Universidad Internacional de La Rioja (UNIR)"
-      }
+      "familyName": "de la Serna"
     }
   ],
   "programmingLanguage": [
     "Python",
     "Jupyter Notebook"
-  ],
-  "keywords": ""
+  ]
 }
