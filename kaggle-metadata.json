@@ -7,10 +7,9 @@
     }
   ],
   "keywords": [
-    "open-data",
     "research",
     "latin-america"
   ],
-  "description": "Evolution of Suicide Rates in Latin America (2000-2023): Analysis by Country, Gender and Age Group. DOI: 10.17632/h6v8vwzhp7.1\n\nDOI: https://github.com/juanmoisesd/suicide-rates-latin-america-2000-2023\nGitHub: https://github.com/juanmoisesd/suicide-rates-latin-america-2000-2023\nAuthor: de la Serna, Juan Moisés",
+  "description": "Evolution of Suicide Rates in Latin America (2000-2023): Analysis by Country, Gender and Age Group. DOI: 10.17632/h6v8vwzhp7.1\nDOI: https://github.com/juanmoisesd/suicide-rates-latin-america-2000-2023",
   "isPrivate": false
 }
