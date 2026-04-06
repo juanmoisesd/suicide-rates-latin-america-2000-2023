@@ -52,3 +52,12 @@ De la Serna Tuya, J. M. (2026). *Evolución de las Tasas de Suicidio en América
 
 ## License
 CC BY 4.0 — You may share and adapt with appropriate credit.
+
+## How to Cite
+
+If you use this repository in your research, please cite:
+
+> de la Serna, J. M. (2026). *Suicide Rates Latin America 2000 2023*. Universidad Internacional de La Rioja (UNIR).
+> https://github.com/juanmoisesd/suicide-rates-latin-america-2000-2023 
+
+See `CITATION.cff` for formatted references.
